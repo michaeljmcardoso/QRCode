@@ -1,3 +1,4 @@
+#Criador de QRCode para página do yahoo
 import qrcode
 
 img = qrcode.make('http://www.yahoo.com.br')
