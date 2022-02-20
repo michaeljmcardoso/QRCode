@@ -1,2 +1,3 @@
 # QRCode
- QRCode com Python
+ Criador de QRCode usando Python
+ 
